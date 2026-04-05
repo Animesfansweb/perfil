@@ -1,0 +1,95 @@
+html {
+  background-color: #dfe4ea;
+  color: #1a1a1a;
+}
+
+body {
+  margin: 1rem;
+  max-width: 52rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  margin: 0 0 1.25rem;
+  padding: 1.25rem 1.5rem;
+  background-color: #ffffff;
+  color: #1a1a1a;
+  border: 2px solid #475569;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.08);
+}
+
+main > section {
+  margin: 0 0 1.25rem;
+  padding: 1.25rem 1.5rem;
+  border: 2px solid;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.06);
+}
+
+#sobre-mi {
+  background-color: #eff6ff;
+  border-color: #2563eb;
+}
+
+#intereses {
+  background-color: #ecfdf5;
+  border-color: #059669;
+}
+
+#formacion {
+  background-color: #fffbeb;
+  border-color: #d97706;
+}
+
+#contacto {
+  background-color: #faf5ff;
+  border-color: #7c3aed;
+}
+
+footer {
+  margin: 0;
+  padding: 1rem 1.25rem;
+  background-color: #f1f5f9;
+  color: #334155;
+  border: 2px solid #64748b;
+  border-radius: 10px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0 0 0.75rem;
+}
+
+p,
+ul,
+ol,
+form {
+  margin: 0 0 1rem;
+}
+
+ul,
+ol {
+  padding-left: 1.5rem;
+}
+
+form p:last-child {
+  margin-bottom: 0;
+}
+
+img {
+  display: block;
+  margin: 1rem 0;
+  border: 2px solid #94a3b8;
+  border-radius: 8px;
+}
+
+a {
+  color: #1d4ed8;
+}
+
+a:hover {
+  text-decoration: underline;
+}
